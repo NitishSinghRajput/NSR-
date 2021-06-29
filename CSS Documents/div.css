@@ -1,0 +1,22 @@
+.first{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 210px;
+    bottom: 350px; 
+}
+.second{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 110px;
+    bottom: 450px;
+}
+.third{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
